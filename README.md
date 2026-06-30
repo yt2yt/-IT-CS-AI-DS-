@@ -14,6 +14,14 @@
 
 ---
 
+## 目录
+
+- [课程目录 Course List](course-list.md)
+- [研究生课程样例 Postgraduate Course Samples](postgraduate-courses.md)
+- [新生开学工具包 Starter Kit](starter-kit.md)
+- [求职导向选课建议 Career Pathway](career-pathway.md)
+
+---
 ## 公开版目前有什么？
 
 公开版目前先开放部分内容：
@@ -24,22 +32,7 @@
 - 开学准备事项
 - 求职导向选课建议
 
-公开版不会一次性放出完整课程分析表，其余课程会先展示课程代码和基础分类，后续逐步更新。
-
----
-
-## 目录
-
-- [课程目录 Course List](course-list.md)
-- [研究生课程样例 Postgraduate Course Samples](postgraduate-courses.md)
-- [新生开学工具包 Starter Kit](starter-kit.md)
-- [求职导向选课建议 Career Pathway](career-pathway.md)
-
----
-
-## 公开版说明
-
-完整课程分析表会包含更详细的信息，例如：
+## 完整课程分析表会包含更详细的信息，例如：
 
 - 课程难度
 - 考核方式
@@ -50,8 +43,6 @@
 - 学姐建议
 - 求职方向匹配度
 - 选课组合建议
-
-本页面仅展示部分公开样例，方便新生先了解整体选课风险。
 
 ---
 
