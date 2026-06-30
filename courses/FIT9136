@@ -1,0 +1,156 @@
+# FIT9136｜Introduction to Python programming｜Python 编程入门
+
+## 写在前面
+
+FIT9136 是很多 Master of IT / Data Science / AI 同学都会遇到的一门 Python 入门课。
+
+如果你之前没学过编程，不用太紧张。这门课确实是从比较基础的 Python 开始讲，比如变量、循环、函数、list、dict 这些内容，先带你理解代码怎么写、怎么跑、怎么用 Python 解决简单问题。
+
+但它也不是那种“0 基础课 = 很轻松”的课。  
+我对这门课的感觉是：**前期看起来不难，但后面 Project、Test 和 Demonstration 上来之后，节奏会明显变快。**
+
+尤其是今年课改之后，Test in class 更偏现场写代码，Project 也会有 Demonstration 环节。前面如果只是看懂了但没自己写，后面做 Project 或现场 Test 会很容易卡。
+
+---
+
+## 课程基本信息
+
+| 项目 | 内容 |
+|---|---|
+| 课程代码 | FIT9136 |
+| 英文名称 | Introduction to Python programming |
+| 中文名称 | Python 编程入门 |
+| 所属阶段 | Part A |
+| 课程类型 | 基础课 / 编程课 |
+| 推荐修读学期 | Y1S1 |
+| 开课时间 | S1, S2 |
+| 前置要求 | 无 |
+| 互斥课 | FIT1045 / FIT9133 / ITO4133 / ITO4136 / ITI9136 |
+| 是否组队 | 否 |
+| 课程关键词 | Python / 函数 / 数据结构 / 问题求解 |
+
+---
+
+## 课程简介
+
+FIT9136 主要是教 Python 编程的基础逻辑和实际写代码能力。
+
+这门课会从变量、数据类型、条件判断和循环开始，慢慢带到函数、list、dict、问题拆解和代码实现。简单说，就是让你知道一个问题怎么拆成小步骤，然后怎么用 Python 把它写出来。
+
+如果你之后想走 Data、AI、Data Science 或者 Software 方向，这门课都算是比较基础的一块。  
+尤其是 Python，后面很多数据分析、机器学习和项目课都会继续用到。
+
+---
+
+## 主要内容
+
+这门课主要会涉及：
+
+- Python 基础语法
+- 变量和数据类型
+- 条件判断和循环
+- 函数
+- list / dict 等基础数据结构
+- 问题拆解
+- Debug
+- 代码实现能力
+
+我觉得最需要认真学的是函数、list / dict 和 debug。  
+Python 语法本身不算特别吓人，但真正写 Project 和 Test 的时候，会很考验你能不能自己把逻辑拆出来。
+
+---
+
+## Assessment 体感
+
+常见考核结构如下：
+
+- Project 1：20%
+- Project 2：30%
+- Quiz / Test 1：5%
+- Quiz / Test 2：15%
+- Quiz / Test 3：15%
+- Demonstration 1：5%
+- Demonstration 2：5%
+
+FIT9136 的 Assessment 不是单纯看你有没有背语法。根据同学反馈和今年课改来看，它更偏向“基础语法 + 现场写代码 + Project 实现 + 代码解释”混在一起。
+
+这门课最容易让人误判的地方是：  
+刚开始学的时候会觉得“变量、循环、函数好像都不难”，但一到 Project 或 Test，就会发现自己不一定能独立写出来。
+
+比如 function 什么时候 return、loop 怎么停、list / dict 怎么存数据、报错怎么 debug、output 格式怎么对齐，这些都不是只看 lecture 就能解决的。  
+有些题看起来只是让你写一个小功能，但如果前面的逻辑没拆清楚，就很容易写到后面越来越乱。
+
+整体来说，它不是一门特别抽象的课，而是要求你真的会写。  
+如果前期没有练代码，后面会比较被动。
+
+---
+
+## 常见卡点
+
+这门课比较容易卡在几个地方：
+
+- 变量和类型转换不熟
+- if / else 逻辑写乱
+- loop 不知道怎么停
+- function 不知道什么时候 return
+- list / dict 不会灵活用
+- 报错看不懂
+- Project 写到后面结构乱
+- Test in class 限时写代码容易紧张
+- Demonstration 解释不清楚自己的代码
+
+我觉得 FIT9136 不是最吓人的那种难，但它很吃持续练习。  
+尤其是零基础同学，不建议把它当成“上课听懂就行”的课。
+
+---
+
+## 选课搭配和求职方向
+
+FIT9136 看起来是一门 Python 入门课，但它其实会影响后面很多课的学习体验。
+
+如果你后面想走 Data / AI / DS，Python 基础一定会反复出现。  
+如果你想走 Software / Backend，函数、数据结构、debug 和代码组织能力也是基础能力。
+
+所以这门课建议不要只想着“混过去”，至少要把 Python 基础、函数、list / dict 和 debug 练明白。
+
+公开版先写到这里，后面我会继续补不同方向的选课搭配和避坑组合。
+
+---
+
+## 学习建议
+
+如果你是零基础，我会建议你提前学一点 Python 基础，不用学得很深，但至少先熟悉变量、循环、函数、list / dict。
+
+这门课比较适合用“小题反复练”的方式学。  
+比如先把 input、print、if / else、for loop、while loop、function、list 和 dict 这些基础写熟，再慢慢练稍微复杂一点的问题拆解。
+
+Project 不要等到最后几天再开始。  
+最好拿到题目之后先读清楚 input 和 output，再把任务拆成小步骤，一个函数一个函数写。不要一上来就想直接写完整程序，不然后面 debug 会很痛苦。
+
+准备 Test in class 的时候，建议多做限时 coding。  
+因为现场写代码和平时慢慢写 Project 是两种感觉。平时如果只是看答案，Test 的时候很容易脑子空白。
+
+准备 Demonstration 的时候，也不要只背稿。  
+最好自己从头跑一遍代码，然后能讲清楚每个 function 在做什么、为什么这样写、如果输入换了代码会怎么处理。
+
+---
+
+## 26S2 同课交流
+
+26S2 修 FIT9136 的同学可以一起蹲后续更新。
+
+我这边会整理课程提醒、Assessment 节点和一些复习资料，也方便大家找同课同学交流。
+
+联系方式：
+
+**unread886**
+
+---
+
+## 官方链接
+
+[Monash Handbook - FIT9136](https://handbook.monash.edu/2026/units/FIT9136)
+
+---
+
+[返回课程目录](../course-list.md)
