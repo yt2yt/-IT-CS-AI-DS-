@@ -1,6 +1,6 @@
 # 课程目录 Course List｜公开版
 
-本页用于整理 Monash IT / CS / AI / DS 相关研究生课程代码、课程名称和基础分类。
+本页用于整理 Monash IT / DS / AI 相关研究生课程代码、课程名称和基础分类。
 
 目前公开版仅展示课程目录，后续会逐步补充部分课程样例。
 
@@ -86,55 +86,6 @@
 
 ---
 
-## Master of Cybersecurity｜课程目录
-
-| 课程代码 | 课程名称 | 中文名称 |
-|---|---|---|
-| FIT9132 | Introduction to databases | 数据库导论 |
-| FIT9136 | Introduction to Python programming | Python 编程入门 |
-| FIT9137 | Introduction to computer architecture and networks | 计算机体系结构与网络导论 |
-| FIT9138 | Information systems analysis, design and systems thinking | 信息系统分析、设计与系统思维 |
-| FIT5057 | Project management | 项目管理 |
-| FIT5003 | Software security | 软件安全 |
-| FIT5037 | Network security | 网络安全 |
-| FIT5125 | IT research and innovation methods | IT 研究与创新方法 |
-| FIT5129 | Cyber operations | 网络安全运营 |
-| FIT5163 | Introduction to cryptography for cybersecurity | 网络安全密码学导论 |
-| FIT5124 | Emerging topics for cybersecurity in practice | 网络安全实践前沿专题 |
-| FIT5223 | IT forensics | IT 取证 |
-| FIT5225 | Cloud computing and security | 云计算与安全 |
-| FIT5122 | Professional practice | IT 专业实践 |
-| FIT5126 | Masters thesis part 1 | 硕士论文第一部分 |
-| FIT5127 | Masters thesis part 2 | 硕士论文第二部分 |
-| FIT5128 | Masters thesis final | 硕士论文第三部分 |
-
----
-
-## Master of Business Information Systems｜课程目录
-
-| 课程代码 | 课程名称 | 中文名称 |
-|---|---|---|
-| FIT9132 | Introduction to databases | 数据库导论 |
-| FIT9136 | Introduction to Python programming | Python 编程入门 |
-| FIT9123 | Introduction to business information systems | 商业信息系统导论 |
-| FIT9138 | Information systems analysis, design and systems thinking | 信息系统分析、设计与系统思维 |
-| FIT5057 | Project management | 项目管理 |
-| FIT5125 | IT research and innovation methods | IT 研究与创新方法 |
-| FIT5233 | Digital transformation, strategy and governance | 数字化转型、战略与治理 |
-| FIT5234 | Advanced business information systems analysis and design | 高级商业信息系统分析与设计 |
-| FIT5235 | Business intelligence and analytics | 商业智能与分析 |
-| FIT5237 | Responsible digitalisation | 负责任数字化 |
-| FIT5094 | Evolutionary decision support | 进化式决策支持 |
-| FIT5206 | Digital continuity | 数字连续性 |
-| FIT5231 | Indigenous data sovereignty | 原住民数据主权 |
-| FIT5236 | Enterprise applications and architecture | 企业应用与架构 |
-| FIT5120 | Industry experience studio project | 行业实践项目 |
-| FIT5122 | Professional practice | IT 专业实践 |
-| FIT5126 | Masters thesis part 1 | 硕士论文第一部分 |
-| FIT5127 | Masters thesis part 2 | 硕士论文第二部分 |
-| FIT5128 | Masters thesis final | 硕士论文第三部分 |
-
----
 
 ## 公开版说明
 
