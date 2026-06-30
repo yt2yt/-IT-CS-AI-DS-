@@ -1,4 +1,4 @@
-# 课程目录 Course List｜公开版
+# Master of IT 课程目录 Course List｜公开版
 
 本页用于整理 Monash IT / CS / AI / DS 相关课程代码、课程名称和基础分类。
 
