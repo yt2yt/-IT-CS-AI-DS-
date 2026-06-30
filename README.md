@@ -1,8 +1,8 @@
 # 莫纳什 IT / CS / AI / DS 新生资料库｜公开版
 
-> 非官方整理｜Monash 课程排雷资料库  
-> 发布身份：Monash 毕业学姐  
+> Monash 毕业学姐搜集整理的Monash课程排雷资料库  
 > 目前优先整理 Master of IT / Data Science / AI 相关内容，本科 IT / CS 内容后续逐步补充。
+> 信息来源：monash官网、reddit论坛、往届学生评价以及本人真实体验
 
 ---
 
