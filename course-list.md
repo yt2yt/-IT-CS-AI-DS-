@@ -8,9 +8,9 @@
 
 | 课程代码 | 课程名称 | 中文名称 |
 |---|---|---|
-| FIT9131 | Programming foundations in Java | Java 编程基础 |
-| FIT9132 | Introduction to databases | 数据库导论 |
-| FIT9136 | Introduction to Python programming | Python 编程入门 |
+| [FIT9131](courses/FIT9131.md) | Programming foundations in Java | Java 编程基础 |
+| [FIT9132](courses/FIT9132.md) | Introduction to databases | 数据库导论 |
+| [FIT9136](courses/FIT9136.md) | Introduction to Python programming | Python 编程入门 |
 | FIT9137 | Introduction to computer architecture and networks | 计算机体系结构与网络导论 |
 | FIT5032 | Internet applications development | 互联网应用开发 |
 | FIT5046 | Mobile and distributed computing systems | 移动与分布式计算系统 |
