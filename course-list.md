@@ -33,9 +33,9 @@
 
 | 课程代码 | 课程名称 | 中文名称 |
 |---|---|---|
-| FIT9132 | Introduction to databases | 数据库导论 |
-| FIT9136 | Introduction to Python programming | Python 编程入门 |
-| FIT9137 | Introduction to computer architecture and networks | 计算机体系结构与网络导论 |
+| [FIT9132](courses/FIT9132.md) | Introduction to databases | 数据库导论 |
+| [FIT9136](courses/FIT9136.md) | Introduction to Python programming | Python 编程入门 |
+| [FIT9137](courses/FIT9136.md) | Introduction to computer architecture and networks | 计算机体系结构与网络导论 |
 | MAT9004 | Mathematical foundations for data science and AI | 数据科学与人工智能数学基础 |
 | FIT5057 | Project management | 项目管理 |
 | FIT5145 | Foundations of data science | 数据科学基础 |
@@ -61,9 +61,9 @@
 
 | 课程代码 | 课程名称 | 中文名称 |
 |---|---|---|
-| FIT9132 | Introduction to databases | 数据库导论 |
-| FIT9136 | Introduction to Python programming | Python 编程入门 |
-| FIT9137 | Introduction to computer architecture and networks | 计算机体系结构与网络导论 |
+| [FIT9132](courses/FIT9132.md) | Introduction to databases | 数据库导论 |
+| [FIT9136](courses/FIT9136.md) | Introduction to Python programming | Python 编程入门 |
+| [FIT9137](courses/FIT9136.md) | Introduction to computer architecture and networks | 计算机体系结构与网络导论 |
 | MAT9004 | Mathematical foundations for data science and AI | 数据科学与人工智能数学基础 |
 | FIT5047 | Fundamentals of artificial intelligence | 人工智能基础 |
 | FIT5057 | Project management | 项目管理 |
